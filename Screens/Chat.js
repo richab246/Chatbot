@@ -35,7 +35,7 @@ export default function Chat() {
       const botResponse = async () => {
         try {
           const response = await fetch(
-            `https://8ad4-115-98-234-41.in.ngrok.io/?prompt=${input}`
+            {YOUR_API}
           );
           const data = await response.json();
           setMessages([...messages, { text: data.response, sender: "bot" }]);
