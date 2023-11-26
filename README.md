@@ -14,8 +14,11 @@ Step 4: Run npm start
 
 These are the screens : 
 
-![Screenshot 2023-07-09 223128](https://github.com/richab246/Chatbot/assets/79681567/a520ed99-b7ce-40f6-b11e-0503b657059d)
-![Screenshot 2023-07-09 222957](https://github.com/richab246/Chatbot/assets/79681567/c6322763-5b11-4467-b992-cfc02b1d02a3)
-![Screenshot 2023-07-09 222946](https://github.com/richab246/Chatbot/assets/79681567/2d21219f-2f11-4783-90a1-d51c9332c004)
-![Screenshot 2023-07-09 222917](https://github.com/richab246/Chatbot/assets/79681567/ec7cfee2-2b03-40fd-b53f-051e47203a1f)
+<img src="https://github.com/richab246/Chatbot/assets/79681567/a520ed99-b7ce-40f6-b11e-0503b657059d" alt="Screenshot 2023-07-09 223128" width="300"/>
+<img src="https://github.com/richab246/Chatbot/assets/79681567/c6322763-5b11-4467-b992-cfc02b1d02a3" alt="Screenshot 2023-07-09 222957" width="300"/>
+
+<img src="https://github.com/richab246/Chatbot/assets/79681567/2d21219f-2f11-4783-90a1-d51c9332c004" alt="Screenshot 2023-07-09 222946" width="300"/>
+
+<img src="https://github.com/richab246/Chatbot/assets/79681567/ec7cfee2-2b03-40fd-b53f-051e47203a1f" alt="Screenshot 2023-07-09 222917" width="300"/>
+
 
