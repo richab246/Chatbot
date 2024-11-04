@@ -14,27 +14,34 @@ KalMiFyn is a voice-enabled chatbot application designed to support mental healt
 
 To run KalMiFyn locally or in your development environment, follow these steps:
 
-### 1 Clone the repository:
+**1 Clone the repository:**
+
  `git clone https://github.com/yourusername/KalMiFyn.git`
 
-### 2 Run Backend Files:
+**2 Run Backend Files:**
+
 Navigate to the backend folder and run all Python files required for backend functionality.
 
-### 3 Start API Server:
+**3 Start API Server:**
+
 Run api.py to start the API server. This will generate a link.
 
-### 4 Expose API with ngrok:
+**4 Expose API with ngrok:**
+
 Use ngrok to expose the API to the internet. Copy the generated link.
 `ngrok http <your-port>`
 
-### 5 Update Frontend Link:
+**5 Update Frontend Link:**
+
 Paste the ngrok link in the chat.js file in the frontend directory.
 
-### 6 Install Frontend Dependencies:
+**6 Install Frontend Dependencies:**
+
 `cd frontend`
 `npm install`
 
-### 7 Start the Application:
+**7 Start the Application:**
+
 `npm start`
 
 
