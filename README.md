@@ -1,16 +1,44 @@
-It is normal Chatbot to which you can talk about your daily routine or depression. To run this app
+# KalMiFyn - Your Voice-Based Mental Health Companion
 
-Step 1:- Run all the python files in backend.
+KalMiFyn is a voice-enabled chatbot application designed to support mental health and well-being. Developed by a team of four during a hackathon, this app creates a safe and confidential space for users to discuss their thoughts and feelings. KalMiFyn aims to make mental health support more accessible, allowing users to express themselves freely and even connect with licensed mental health professionals when needed.
 
-Step 2:- When you will api.py file you will get a link.
+## Tech Stack
 
-Step 3:- Host that link on ngrok
+<ins>Frontend:</ins> React Native for cross-platform mobile support.
 
-Step 4:- Paste the link in chat.js
+<ins>Backend:</ins> Python with TensorFlow, NumPy, and Pandas for chatbot AI and data processing.
 
-Step 5:- Run npm install command
+<ins>Machine Learning:</ins> TensorFlow for natural language understanding and responsive AI.
 
-Step 4: Run npm start
+## Installation and Setup
+
+To run KalMiFyn locally or in your development environment, follow these steps:
+
+### 1 Clone the repository:
+ `git clone https://github.com/yourusername/KalMiFyn.git`
+
+### 2 Run Backend Files:
+Navigate to the backend folder and run all Python files required for backend functionality.
+
+### 3 Start API Server:
+Run api.py to start the API server. This will generate a link.
+
+### 4 Expose API with ngrok:
+Use ngrok to expose the API to the internet. Copy the generated link.
+`ngrok http <your-port>`
+
+### 5 Update Frontend Link:
+Paste the ngrok link in the chat.js file in the frontend directory.
+
+### 6 Install Frontend Dependencies:
+`cd frontend`
+`npm install`
+
+### 7 Start the Application:
+`npm start`
+
+
+
 
 https://github.com/user-attachments/assets/4b9eaccc-0e3d-464d-b706-af18f250a3dd
 
